@@ -1,0 +1,26 @@
+{
+  "name": "react-express-exempler",
+  "version": "1.0.0",
+  "description": "Full Stack App",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikishorer082/react-express-exempler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikishorer082/react-express-exempler/issues"
+  },
+  "homepage": "https://github.com/saikishorer082/react-express-exempler#readme"
+}
